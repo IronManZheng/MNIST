@@ -17,7 +17,7 @@ print(label)
 Image.fromarray(np.uint16(img)).show()
 #pilimg = Image.fromarray(np.uint8(img))
 #pilimg.show()
-print("--------------train----------------")
+print("--------------test----------------")
 
 print(test_img.shape)
 print(test_label.shape)
