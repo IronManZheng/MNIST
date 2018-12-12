@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa8d01d-f328-407b-bd14-27fccb30a879" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.2.3_test_matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2.3_step_function_normal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,15 +60,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="3_test_matplotlib&amp;numpy" value="19" />
           <entry key="Python Console" value="151" />
-          <entry key="py" value="753" />
-          <entry key="txt" value="26" />
+          <entry key="dummy" value="20" />
+          <entry key="py" value="1085" />
+          <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="904" />
+          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="Python" value="1255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,15 +91,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py">
+        <entry file="file://$PROJECT_DIR$/3.2.3_step_function_normal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <marker date="1544603339498" expanded="true" signature="71:72" ph="..." />
-                <marker date="1544603339498" expanded="true" signature="71:73" ph="..." />
-                <marker date="1544603339498" expanded="true" signature="71:74" ph="..." />
+                <marker date="1544604104867" expanded="true" signature="127:128" ph="..." />
+                <marker date="1544604104867" expanded="true" signature="127:292" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2071166285/numpy/core/multiarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="188">
               <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
             </state>
           </provider>
@@ -132,6 +133,7 @@
         <option value="$PROJECT_DIR$/3.2.2_stepFunction_diy.py" />
         <option value="$PROJECT_DIR$/3.2.3_test_matplotlib.py" />
         <option value="$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py" />
+        <option value="$PROJECT_DIR$/3.2.3_step_function_normal.py" />
       </list>
     </option>
   </component>
@@ -151,7 +153,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -170,8 +172,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="untitled9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled9" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +275,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\PyCharm\PROJECT\MNIST\3.2.3_step_function_normal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544515967817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="练习绘制阶跃函数图像2018.12.12">
+      <created>1544603539886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544603539886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -382,7 +391,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.26066098" />
@@ -397,13 +405,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45095947" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.36940297" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5490405" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.630597" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.3054371" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.32995737" />
     </layout>
@@ -417,7 +425,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20181211" />
     <MESSAGE value="20181211自己做了一个阶跃函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181211自己做了一个阶跃函数" />
+    <MESSAGE value="练习绘制阶跃函数图像2018.12.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习绘制阶跃函数图像2018.12.12" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
@@ -482,20 +491,19 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2071166285/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="188">
           <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.2.3_test_matplotlib&amp;numpy.py">
+    <entry file="file://$PROJECT_DIR$/3.2.3_step_function_normal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <marker date="1544603339498" expanded="true" signature="71:72" ph="..." />
-            <marker date="1544603339498" expanded="true" signature="71:73" ph="..." />
-            <marker date="1544603339498" expanded="true" signature="71:74" ph="..." />
+            <marker date="1544604104867" expanded="true" signature="127:128" ph="..." />
+            <marker date="1544604104867" expanded="true" signature="127:292" ph="..." />
           </folding>
         </state>
       </provider>
