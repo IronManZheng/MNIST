@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa8d01d-f328-407b-bd14-27fccb30a879" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/step_diy_20190107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2.4_sigmoid_drawByMyself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2.7_reLU_drawByMyself.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,38 +55,37 @@
     <session id="2057935719">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="3_test_matplotlib&amp;numpy" value="19" />
-          <entry key="7_reLU_drawByMyself" value="187" />
-          <entry key="Python Console" value="386" />
-          <entry key="dummy" value="24" />
-          <entry key="py" value="1775" />
+          <entry key="7_reLU_drawByMyself" value="185" />
+          <entry key="Python Console" value="151" />
+          <entry key="dummy" value="20" />
+          <entry key="py" value="1607" />
           <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="72" />
-          <entry key="Python" value="2367" />
+          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="Python" value="1962" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -95,15 +95,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/step_diy_20190107.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.2.3_step_function_normal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="480">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <marker date="1546822667986" expanded="true" signature="86:91" ph="..." />
+                <marker date="1544604104867" expanded="true" signature="127:128" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.2.4_sigmoid_drawByMyself.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1544687947209" expanded="true" signature="80:85" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.2.7_reLU_drawByMyself.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1544692011382" expanded="true" signature="309:375" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../untitled9/venv/Lib/site-packages/matplotlib/axes/_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="352" selection-start-line="352" selection-end-line="352" />
             </state>
           </provider>
         </entry>
@@ -131,8 +166,6 @@
         <option value="$PROJECT_DIR$/3.2.3_step_function_normal.py" />
         <option value="$PROJECT_DIR$/3.2.4_sigmoid_drawByMyself.py" />
         <option value="$PROJECT_DIR$/3.2.7_reLU_drawByMyself.py" />
-        <option value="$PROJECT_DIR$/sigmoid_diy_20190107.py" />
-        <option value="$PROJECT_DIR$/step_diy_20190107.py" />
       </list>
     </option>
   </component>
@@ -156,23 +189,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MNIST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="MNIST" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MNIST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,7 +233,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.step_diy_20190107">
+  <component name="RunManager" selected="Python.3.2.7_reLU_drawByMyself">
+    <configuration name="3.2.2_stepFunction_diy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2.2_stepFunction_diy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="3.2.3_test_matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,9 +304,6 @@
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -271,9 +323,6 @@
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -311,39 +360,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="step_diy_20190107" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step_diy_20190107.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.3.2.2_stepFunction_diy" />
       <item itemvalue="Python.3.2.3_test_matplotlib" />
       <item itemvalue="Python.3.2.3_test_matplotlib&amp;numpy" />
       <item itemvalue="Python.3.2.4_sigmoid_drawByMyself" />
       <item itemvalue="Python.3.2.7_reLU_drawByMyself" />
-      <item itemvalue="Python.step_diy_20190107" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.step_diy_20190107" />
         <item itemvalue="Python.3.2.7_reLU_drawByMyself" />
         <item itemvalue="Python.3.2.4_sigmoid_drawByMyself" />
         <item itemvalue="Python.3.2.3_test_matplotlib&amp;numpy" />
         <item itemvalue="Python.3.2.3_test_matplotlib" />
+        <item itemvalue="Python.3.2.2_stepFunction_diy" />
       </list>
     </recent_temporary>
   </component>
@@ -386,14 +416,7 @@
       <option name="project" value="LOCAL" />
       <updated>1544605964239</updated>
     </task>
-    <task id="LOCAL-00005" summary="练习绘制阶跃函数图像2018.12.12">
-      <created>1544693251764</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1544693251764</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -408,7 +431,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2739872" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.26066098" />
       <window_info id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" weight="0.26066098" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,15 +444,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.37153518" side_tool="true" visible="true" weight="0.3206934" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.36993605" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.6284648" visible="true" weight="0.3206934" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.63006395" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.6634769" visible="true" weight="0.21908316" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49919224" visible="true" weight="0.26492536" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.33652312" side_tool="true" visible="true" weight="0.21908316" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.26492536" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,10 +523,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled9/venv/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.2.3_step_function_normal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="480">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1544604104867" expanded="true" signature="127:128" ph="..." />
@@ -513,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.2.4_sigmoid_drawByMyself.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1544687947209" expanded="true" signature="80:85" ph="..." />
@@ -522,31 +552,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled9/venv/Lib/site-packages/matplotlib/axes/_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9570">
-          <caret line="352" selection-start-line="352" selection-end-line="352" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.2.7_reLU_drawByMyself.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1544692011382" expanded="true" signature="309:375" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/step_diy_20190107.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1546822667986" expanded="true" signature="86:91" ph="..." />
           </folding>
         </state>
       </provider>
