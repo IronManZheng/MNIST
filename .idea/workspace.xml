@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fa8d01d-f328-407b-bd14-27fccb30a879" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/step_diy_20190107.py" beforeDir="false" afterPath="$PROJECT_DIR$/step_diy_20190107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_softmax_20190111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +56,12 @@
     <session id="2057935719">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,24 +70,24 @@
           <entry key="7_reLU_drawByMyself" value="185" />
           <entry key="Python Console" value="151" />
           <entry key="dummy" value="20" />
-          <entry key="py" value="1608" />
+          <entry key="py" value="1813" />
           <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="68" />
-          <entry key="Python" value="1963" />
+          <entry key="Python" value="2168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -94,14 +98,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/step_diy_20190107.py">
+        <entry file="file://$PROJECT_DIR$/study_softmax_20190111.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1546823197057" expanded="true" signature="86:91" ph="..." />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -130,6 +130,7 @@
         <option value="$PROJECT_DIR$/3.2.4_sigmoid_drawByMyself.py" />
         <option value="$PROJECT_DIR$/3.2.7_reLU_drawByMyself.py" />
         <option value="$PROJECT_DIR$/step_diy_20190107.py" />
+        <option value="$PROJECT_DIR$/study_softmax_20190111.py" />
       </list>
     </option>
   </component>
@@ -145,6 +146,23 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -153,23 +171,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MNIST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="MNIST" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MNIST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MNIST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,29 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.2.7_reLU_drawByMyself">
-    <configuration name="3.2.2_stepFunction_diy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled9" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2.2_stepFunction_diy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.study_softmax_20190111">
     <configuration name="3.2.3_test_matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,9 +286,6 @@
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -330,20 +323,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="study_softmax_20190111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study_softmax_20190111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.3.2.2_stepFunction_diy" />
       <item itemvalue="Python.3.2.3_test_matplotlib" />
       <item itemvalue="Python.3.2.3_test_matplotlib&amp;numpy" />
       <item itemvalue="Python.3.2.4_sigmoid_drawByMyself" />
       <item itemvalue="Python.3.2.7_reLU_drawByMyself" />
+      <item itemvalue="Python.study_softmax_20190111" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.study_softmax_20190111" />
         <item itemvalue="Python.3.2.7_reLU_drawByMyself" />
         <item itemvalue="Python.3.2.4_sigmoid_drawByMyself" />
         <item itemvalue="Python.3.2.3_test_matplotlib&amp;numpy" />
         <item itemvalue="Python.3.2.3_test_matplotlib" />
-        <item itemvalue="Python.3.2.2_stepFunction_diy" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +414,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2739872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.26066098" />
       <window_info id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" weight="0.26066098" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,17 +425,17 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" x="416" y="527" width="937" height="304" id="TODO" order="6" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3704691" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.63006395" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.6295309" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.66397417" visible="true" weight="0.21908316" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.66235864" visible="true" weight="0.21908316" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.33602583" side_tool="true" visible="true" weight="0.21908316" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" sideWeight="0.33764136" side_tool="true" visible="true" weight="0.21908316" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,10 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1544604104867" expanded="true" signature="127:128" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -516,10 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1544687947209" expanded="true" signature="80:85" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,6 +535,27 @@
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1544692011382" expanded="true" signature="309:375" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.5.2_softmax_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step_diy_20190107.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1546823209347" expanded="true" signature="86:91" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_softmax_20190111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
